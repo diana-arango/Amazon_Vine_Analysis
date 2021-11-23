@@ -4,9 +4,20 @@
 Determine if there is any bias toward favorable reviews from Vine members in our dataset using PySpark, Pandas or SQL and define if having a paid vine review makes a difference in the percentage of 5-star reviews
 
 ## Results
-*Images of DataFrames 
+### total_votes equal or greater than 20.png 
+https://github.com/diana-arango/Amazon_Vine_Analysis/blob/main/pictures/total_votes%20equal%20or%20greater%20than%2020.png
 
- 
+### total_votes equal or greater than 50%.png
+https://github.com/diana-arango/Amazon_Vine_Analysis/blob/main/pictures/total_votes%20equal%20or%20greater%20than%2050%25.png
+
+### vines_dataframes.png
+https://github.com/diana-arango/Amazon_Vine_Analysis/blob/main/pictures/vines_dataframes.png
+
+### Code vine reviewspng.png
+https://github.com/diana-arango/Amazon_Vine_Analysis/blob/main/pictures/Code%20vine%20reviewspng.png
+
+
+
 •	How many vine review and no-vine reviews were there?
 o	Vine reviews: 94
 o	Non-Vine reviews: 40471
